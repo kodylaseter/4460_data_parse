@@ -1,0 +1,2052 @@
+{
+    "Alabama": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 533083.0,
+                "Education": 10616535.0,
+                "Governmental Administration": 584862.0,
+                "Health": 558857.0,
+                "Highways": 1753303.0,
+                "Hospitals": 2132163.0,
+                "Interest on General Debt": 355035.0,
+                "Natural Resources": 276034.0,
+                "Other and Unallocable": 1223915.0,
+                "Parks and Recreation": 20371.0,
+                "Police Protection": 160779.0,
+                "Public Welfare": 6386764.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 2921517.0,
+                "Unemployment Compensation Systems": 413921.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 483897.0,
+                "Current Charges": 3965673.0,
+                "Income Taxes": 3584722.0,
+                "Intergovernmental Revenue": 8338033.0,
+                "License Taxes": 490430.0,
+                "Miscellaneous General Revenue": 1188372.0,
+                "Sales and Gross Receipts Taxes": 4708518.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 5610884.0,
+                "Unemployment Compensation Systems": 444173.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        }
+    },
+    "Alaska": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 335234.0,
+                "Education": 2806879.0,
+                "Governmental Administration": 663166.0,
+                "Health": 348730.0,
+                "Highways": 1152768.0,
+                "Hospitals": 79817.0,
+                "Interest on General Debt": 263066.0,
+                "Natural Resources": 331740.0,
+                "Other and Unallocable": 2445630.0,
+                "Parks and Recreation": 29247.0,
+                "Police Protection": 166917.0,
+                "Public Welfare": 2084000.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 997064.0,
+                "Unemployment Compensation Systems": 296771.0,
+                "Workers' Compensation Systems": 4605.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 4116564.0,
+                "Current Charges": 623797.0,
+                "Income Taxes": 630941.0,
+                "Intergovernmental Revenue": 2754412.0,
+                "License Taxes": 135720.0,
+                "Miscellaneous General Revenue": 3769295.0,
+                "Sales and Gross Receipts Taxes": 249586.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1463313.0,
+                "Unemployment Compensation Systems": 252711.0,
+                "Workers' Compensation Systems": 5198.0
+            }
+        }
+    },
+    "Arizona": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 829019.0,
+                "Education": 9423140.0,
+                "Governmental Administration": 649188.0,
+                "Health": 1924080.0,
+                "Highways": 1971558.0,
+                "Hospitals": 683817.0,
+                "Interest on General Debt": 498304.0,
+                "Natural Resources": 263092.0,
+                "Other and Unallocable": 2702721.0,
+                "Parks and Recreation": 78339.0,
+                "Police Protection": 232360.0,
+                "Public Welfare": 8494905.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3366945.0,
+                "Unemployment Compensation Systems": 664539.0,
+                "Workers' Compensation Systems": 151475.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 792480.0,
+                "Current Charges": 3381853.0,
+                "Income Taxes": 4059733.0,
+                "Intergovernmental Revenue": 10580523.0,
+                "License Taxes": 412769.0,
+                "Miscellaneous General Revenue": 1742208.0,
+                "Sales and Gross Receipts Taxes": 8206708.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 6667026.0,
+                "Unemployment Compensation Systems": 555723.0,
+                "Workers' Compensation Systems": 515769.0
+            }
+        }
+    },
+    "Arkansas": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 403821.0,
+                "Education": 7518389.0,
+                "Governmental Administration": 605998.0,
+                "Health": 297457.0,
+                "Highways": 1219251.0,
+                "Hospitals": 936138.0,
+                "Interest on General Debt": 137746.0,
+                "Natural Resources": 248511.0,
+                "Other and Unallocable": 885202.0,
+                "Parks and Recreation": 58214.0,
+                "Police Protection": 109098.0,
+                "Public Welfare": 5139921.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1428328.0,
+                "Unemployment Compensation Systems": 518026.0,
+                "Workers' Compensation Systems": 16152.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 1157833.0,
+                "Current Charges": 2136390.0,
+                "Income Taxes": 3052451.0,
+                "Intergovernmental Revenue": 5724598.0,
+                "License Taxes": 356920.0,
+                "Miscellaneous General Revenue": 862673.0,
+                "Sales and Gross Receipts Taxes": 4019203.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3629113.0,
+                "Unemployment Compensation Systems": 585383.0,
+                "Workers' Compensation Systems": 17143.0
+            }
+        }
+    },
+    "California": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 7844627.0,
+                "Education": 80195847.0,
+                "Governmental Administration": 7362510.0,
+                "Health": 8785009.0,
+                "Highways": 13193489.0,
+                "Hospitals": 9107869.0,
+                "Interest on General Debt": 7228325.0,
+                "Natural Resources": 4102500.0,
+                "Other and Unallocable": 13495632.0,
+                "Parks and Recreation": 523095.0,
+                "Police Protection": 1600910.0,
+                "Public Welfare": 80014405.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 4857043.0,
+                "State-Administered Pension Systems": 31030161.0,
+                "Unemployment Compensation Systems": 11866557.0,
+                "Workers' Compensation Systems": 1494297.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 2094918.0,
+                "Current Charges": 18354538.0,
+                "Income Taxes": 74271000.0,
+                "Intergovernmental Revenue": 58096373.0,
+                "License Taxes": 8743748.0,
+                "Miscellaneous General Revenue": 10057563.0,
+                "Sales and Gross Receipts Taxes": 48074580.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 5959452.0,
+                "State-Administered Pension Systems": 71642116.0,
+                "Unemployment Compensation Systems": 15294281.0,
+                "Workers' Compensation Systems": 1748829.0
+            }
+        }
+    },
+    "Colorado": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 975698.0,
+                "Education": 9478848.0,
+                "Governmental Administration": 806029.0,
+                "Health": 1055306.0,
+                "Highways": 1448635.0,
+                "Hospitals": 710618.0,
+                "Interest on General Debt": 846807.0,
+                "Natural Resources": 321265.0,
+                "Other and Unallocable": 1449738.0,
+                "Parks and Recreation": 83055.0,
+                "Police Protection": 172792.0,
+                "Public Welfare": 5840287.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 112818.0,
+                "State-Administered Pension Systems": 3950747.0,
+                "Unemployment Compensation Systems": 1040083.0,
+                "Workers' Compensation Systems": 435372.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 147746.0,
+                "Current Charges": 3196792.0,
+                "Income Taxes": 6180665.0,
+                "Intergovernmental Revenue": 6508932.0,
+                "License Taxes": 637707.0,
+                "Miscellaneous General Revenue": 2177894.0,
+                "Sales and Gross Receipts Taxes": 4279544.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 140920.0,
+                "State-Administered Pension Systems": 6513442.0,
+                "Unemployment Compensation Systems": 784869.0,
+                "Workers' Compensation Systems": 418255.0
+            }
+        }
+    },
+    "Connecticut": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 669700.0,
+                "Education": 7019066.0,
+                "Governmental Administration": 1189621.0,
+                "Health": 950351.0,
+                "Highways": 1056211.0,
+                "Hospitals": 1288711.0,
+                "Interest on General Debt": 1435495.0,
+                "Natural Resources": 164033.0,
+                "Other and Unallocable": 2332410.0,
+                "Parks and Recreation": 62093.0,
+                "Police Protection": 232639.0,
+                "Public Welfare": 7318979.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3277160.0,
+                "Unemployment Compensation Systems": 1523821.0,
+                "Workers' Compensation Systems": 30908.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 575778.0,
+                "Current Charges": 1797331.0,
+                "Income Taxes": 8384577.0,
+                "Intergovernmental Revenue": 5962699.0,
+                "License Taxes": 453112.0,
+                "Miscellaneous General Revenue": 1496859.0,
+                "Sales and Gross Receipts Taxes": 6776058.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 4900261.0,
+                "Unemployment Compensation Systems": 1430336.0,
+                "Workers' Compensation Systems": 37529.0
+            }
+        }
+    },
+    "Delaware": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 282015.0,
+                "Education": 2745343.0,
+                "Governmental Administration": 483713.0,
+                "Health": 449699.0,
+                "Highways": 595377.0,
+                "Hospitals": 47575.0,
+                "Interest on General Debt": 353163.0,
+                "Natural Resources": 73337.0,
+                "Other and Unallocable": 611235.0,
+                "Parks and Recreation": 44014.0,
+                "Police Protection": 126436.0,
+                "Public Welfare": 1971064.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 528464.0,
+                "Unemployment Compensation Systems": 195916.0,
+                "Workers' Compensation Systems": 6266.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 159692.0,
+                "Current Charges": 1134009.0,
+                "Income Taxes": 1440145.0,
+                "Intergovernmental Revenue": 1996011.0,
+                "License Taxes": 1259277.0,
+                "Miscellaneous General Revenue": 1317584.0,
+                "Sales and Gross Receipts Taxes": 487202.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 895484.0,
+                "Unemployment Compensation Systems": 193738.0,
+                "Workers' Compensation Systems": 7871.0
+            }
+        }
+    },
+    "Florida": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 2145818.0,
+                "Education": 23904253.0,
+                "Governmental Administration": 2564023.0,
+                "Health": 3763817.0,
+                "Highways": 5869267.0,
+                "Hospitals": 820601.0,
+                "Interest on General Debt": 1313796.0,
+                "Natural Resources": 1100119.0,
+                "Other and Unallocable": 6468874.0,
+                "Parks and Recreation": 104619.0,
+                "Police Protection": 514377.0,
+                "Public Welfare": 22528115.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 6680146.0,
+                "Unemployment Compensation Systems": 2384990.0,
+                "Workers' Compensation Systems": 131253.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 1996150.0,
+                "Current Charges": 9018813.0,
+                "Income Taxes": 2071710.0,
+                "Intergovernmental Revenue": 23880229.0,
+                "License Taxes": 1993965.0,
+                "Miscellaneous General Revenue": 6449315.0,
+                "Sales and Gross Receipts Taxes": 29315741.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 18732039.0,
+                "Unemployment Compensation Systems": 2208321.0,
+                "Workers' Compensation Systems": 3643.0
+            }
+        }
+    },
+    "Georgia": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 1487452.0,
+                "Education": 17337702.0,
+                "Governmental Administration": 827540.0,
+                "Health": 1204357.0,
+                "Highways": 2170602.0,
+                "Hospitals": 948316.0,
+                "Interest on General Debt": 665293.0,
+                "Natural Resources": 454830.0,
+                "Other and Unallocable": 1571871.0,
+                "Parks and Recreation": 196605.0,
+                "Police Protection": 319687.0,
+                "Public Welfare": 11518235.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 99262.0,
+                "State-Administered Pension Systems": 5137645.0,
+                "Unemployment Compensation Systems": 1507086.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 71847.0,
+                "Current Charges": 3676613.0,
+                "Income Taxes": 9569482.0,
+                "Intergovernmental Revenue": 14619221.0,
+                "License Taxes": 744401.0,
+                "Miscellaneous General Revenue": 2301808.0,
+                "Sales and Gross Receipts Taxes": 7408422.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 95017.0,
+                "State-Administered Pension Systems": 13716824.0,
+                "Unemployment Compensation Systems": 1276012.0,
+                "Workers' Compensation Systems": ""
+            }
+        }
+    },
+    "Hawaii": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 200984.0,
+                "Education": 3404040.0,
+                "Governmental Administration": 413238.0,
+                "Health": 494927.0,
+                "Highways": 409269.0,
+                "Hospitals": 799790.0,
+                "Interest on General Debt": 349062.0,
+                "Natural Resources": 113135.0,
+                "Other and Unallocable": 1684572.0,
+                "Parks and Recreation": 95856.0,
+                "Police Protection": 34307.0,
+                "Public Welfare": 2098924.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1040485.0,
+                "Unemployment Compensation Systems": 333558.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 71105.0,
+                "Current Charges": 1626827.0,
+                "Income Taxes": 1859379.0,
+                "Intergovernmental Revenue": 2331449.0,
+                "License Taxes": 230189.0,
+                "Miscellaneous General Revenue": 773945.0,
+                "Sales and Gross Receipts Taxes": 3932220.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1582672.0,
+                "Unemployment Compensation Systems": 368031.0,
+                "Workers' Compensation Systems": 169135.0
+            }
+        }
+    },
+    "Idaho": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 251160.0,
+                "Education": 2658667.0,
+                "Governmental Administration": 335282.0,
+                "Health": 178448.0,
+                "Highways": 691516.0,
+                "Hospitals": 52453.0,
+                "Interest on General Debt": 161777.0,
+                "Natural Resources": 217916.0,
+                "Other and Unallocable": 547167.0,
+                "Parks and Recreation": 38477.0,
+                "Police Protection": 54577.0,
+                "Public Welfare": 2190795.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 692990.0,
+                "Unemployment Compensation Systems": 236281.0,
+                "Workers' Compensation Systems": 119322.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 6294.0,
+                "Current Charges": 717549.0,
+                "Income Taxes": 1492902.0,
+                "Intergovernmental Revenue": 2541438.0,
+                "License Taxes": 306627.0,
+                "Miscellaneous General Revenue": 502183.0,
+                "Sales and Gross Receipts Taxes": 1773270.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1567298.0,
+                "Unemployment Compensation Systems": 322821.0,
+                "Workers' Compensation Systems": 24043.0
+            }
+        }
+    },
+    "Illinois": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 1327176.0,
+                "Education": 17272058.0,
+                "Governmental Administration": 1374685.0,
+                "Health": 2240614.0,
+                "Highways": 4969276.0,
+                "Hospitals": 1345563.0,
+                "Interest on General Debt": 3503179.0,
+                "Natural Resources": 237443.0,
+                "Other and Unallocable": 7797305.0,
+                "Parks and Recreation": 262417.0,
+                "Police Protection": 467598.0,
+                "Public Welfare": 20424637.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 52546.0,
+                "State-Administered Pension Systems": 10231516.0,
+                "Unemployment Compensation Systems": 3806108.0,
+                "Workers' Compensation Systems": 12599.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 425184.0,
+                "Current Charges": 4913942.0,
+                "Income Taxes": 21001289.0,
+                "Intergovernmental Revenue": 17312790.0,
+                "License Taxes": 2583108.0,
+                "Miscellaneous General Revenue": 4605465.0,
+                "Sales and Gross Receipts Taxes": 14719741.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 31866.0,
+                "State-Administered Pension Systems": 15687187.0,
+                "Unemployment Compensation Systems": 3206530.0,
+                "Workers' Compensation Systems": 6274.0
+            }
+        }
+    },
+    "Indiana": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 688283.0,
+                "Education": 14613475.0,
+                "Governmental Administration": 560115.0,
+                "Health": 495892.0,
+                "Highways": 2530006.0,
+                "Hospitals": 160643.0,
+                "Interest on General Debt": 961664.0,
+                "Natural Resources": 335053.0,
+                "Other and Unallocable": 2041849.0,
+                "Parks and Recreation": 77161.0,
+                "Police Protection": 237564.0,
+                "Public Welfare": 10748417.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 2259973.0,
+                "Unemployment Compensation Systems": 1077745.0,
+                "Workers' Compensation Systems": 5799.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 174907.0,
+                "Current Charges": 3429363.0,
+                "Income Taxes": 5757960.0,
+                "Intergovernmental Revenue": 11267810.0,
+                "License Taxes": 699373.0,
+                "Miscellaneous General Revenue": 1871248.0,
+                "Sales and Gross Receipts Taxes": 10298491.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 2489969.0,
+                "Unemployment Compensation Systems": 2146274.0,
+                "Workers' Compensation Systems": 6314.0
+            }
+        }
+    },
+    "Iowa": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 334893.0,
+                "Education": 6469134.0,
+                "Governmental Administration": 550671.0,
+                "Health": 256786.0,
+                "Highways": 1658218.0,
+                "Hospitals": 1519773.0,
+                "Interest on General Debt": 245725.0,
+                "Natural Resources": 295335.0,
+                "Other and Unallocable": 1178514.0,
+                "Parks and Recreation": 31074.0,
+                "Police Protection": 96322.0,
+                "Public Welfare": 5265106.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1881704.0,
+                "Unemployment Compensation Systems": 553501.0,
+                "Workers' Compensation Systems": 5565.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 101936.0,
+                "Current Charges": 2908758.0,
+                "Income Taxes": 3865312.0,
+                "Intergovernmental Revenue": 5991401.0,
+                "License Taxes": 798137.0,
+                "Miscellaneous General Revenue": 1259144.0,
+                "Sales and Gross Receipts Taxes": 3608991.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3697185.0,
+                "Unemployment Compensation Systems": 604226.0,
+                "Workers' Compensation Systems": 8768.0
+            }
+        }
+    },
+    "Kansas": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 347040.0,
+                "Education": 6057156.0,
+                "Governmental Administration": 411604.0,
+                "Health": 356630.0,
+                "Highways": 1181586.0,
+                "Hospitals": 1556542.0,
+                "Interest on General Debt": 215245.0,
+                "Natural Resources": 231678.0,
+                "Other and Unallocable": 626985.0,
+                "Parks and Recreation": 39481.0,
+                "Police Protection": 105054.0,
+                "Public Welfare": 3386863.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1394845.0,
+                "Unemployment Compensation Systems": 521420.0,
+                "Workers' Compensation Systems": 4577.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 153281.0,
+                "Current Charges": 2781722.0,
+                "Income Taxes": 3341141.0,
+                "Intergovernmental Revenue": 3845073.0,
+                "License Taxes": 382944.0,
+                "Miscellaneous General Revenue": 998901.0,
+                "Sales and Gross Receipts Taxes": 3742916.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 2060765.0,
+                "Unemployment Compensation Systems": 477157.0,
+                "Workers' Compensation Systems": 229365.0
+            }
+        }
+    },
+    "Kentucky": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 532134.0,
+                "Education": 9453475.0,
+                "Governmental Administration": 878640.0,
+                "Health": 691179.0,
+                "Highways": 2365583.0,
+                "Hospitals": 1132362.0,
+                "Interest on General Debt": 692650.0,
+                "Natural Resources": 333797.0,
+                "Other and Unallocable": 997936.0,
+                "Parks and Recreation": 99115.0,
+                "Police Protection": 197374.0,
+                "Public Welfare": 7083731.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3354164.0,
+                "Unemployment Compensation Systems": 872292.0,
+                "Workers' Compensation Systems": 177365.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 872933.0,
+                "Current Charges": 2881246.0,
+                "Income Taxes": 4369839.0,
+                "Intergovernmental Revenue": 8083482.0,
+                "License Taxes": 462726.0,
+                "Miscellaneous General Revenue": 1145924.0,
+                "Sales and Gross Receipts Taxes": 5110456.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 4451211.0,
+                "Unemployment Compensation Systems": 1149266.0,
+                "Workers' Compensation Systems": 110083.0
+            }
+        }
+    },
+    "Louisiana": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 701296.0,
+                "Education": 8881174.0,
+                "Governmental Administration": 944961.0,
+                "Health": 523905.0,
+                "Highways": 1716072.0,
+                "Hospitals": 1930770.0,
+                "Interest on General Debt": 849059.0,
+                "Natural Resources": 801023.0,
+                "Other and Unallocable": 3570251.0,
+                "Parks and Recreation": 359434.0,
+                "Police Protection": 356701.0,
+                "Public Welfare": 7165251.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 159225.0,
+                "State-Administered Pension Systems": 3676068.0,
+                "Unemployment Compensation Systems": 332719.0,
+                "Workers' Compensation Systems": 64494.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 886844.0,
+                "Current Charges": 2967466.0,
+                "Income Taxes": 2992413.0,
+                "Intergovernmental Revenue": 10660261.0,
+                "License Taxes": 369930.0,
+                "Miscellaneous General Revenue": 2403803.0,
+                "Sales and Gross Receipts Taxes": 4974642.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 195042.0,
+                "State-Administered Pension Systems": 5497009.0,
+                "Unemployment Compensation Systems": 269314.0,
+                "Workers' Compensation Systems": 14359.0
+            }
+        }
+    },
+    "Maine": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 136811.0,
+                "Education": 2019094.0,
+                "Governmental Administration": 289001.0,
+                "Health": 484261.0,
+                "Highways": 614592.0,
+                "Hospitals": 111922.0,
+                "Interest on General Debt": 233066.0,
+                "Natural Resources": 171924.0,
+                "Other and Unallocable": 823225.0,
+                "Parks and Recreation": 24992.0,
+                "Police Protection": 75602.0,
+                "Public Welfare": 2892491.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 795131.0,
+                "Unemployment Compensation Systems": 254733.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 140168.0,
+                "Current Charges": 737693.0,
+                "Income Taxes": 1703491.0,
+                "Intergovernmental Revenue": 2830353.0,
+                "License Taxes": 260918.0,
+                "Miscellaneous General Revenue": 538483.0,
+                "Sales and Gross Receipts Taxes": 1779873.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1080282.0,
+                "Unemployment Compensation Systems": 184055.0,
+                "Workers' Compensation Systems": 306833.0
+            }
+        }
+    },
+    "Maryland": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 1396307.0,
+                "Education": 11398463.0,
+                "Governmental Administration": 1644697.0,
+                "Health": 2149504.0,
+                "Highways": 1949117.0,
+                "Hospitals": 517097.0,
+                "Interest on General Debt": 1101621.0,
+                "Natural Resources": 447136.0,
+                "Other and Unallocable": 2809284.0,
+                "Parks and Recreation": 161979.0,
+                "Police Protection": 550989.0,
+                "Public Welfare": 10044675.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 45136.0,
+                "State-Administered Pension Systems": 3019286.0,
+                "Unemployment Compensation Systems": 1206249.0,
+                "Workers' Compensation Systems": 183064.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 1320435.0,
+                "Current Charges": 3428410.0,
+                "Income Taxes": 8645416.0,
+                "Intergovernmental Revenue": 10325181.0,
+                "License Taxes": 805292.0,
+                "Miscellaneous General Revenue": 2907539.0,
+                "Sales and Gross Receipts Taxes": 7347048.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 93067.0,
+                "State-Administered Pension Systems": 5758218.0,
+                "Unemployment Compensation Systems": 966621.0,
+                "Workers' Compensation Systems": 67054.0
+            }
+        }
+    },
+    "Massachusetts": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 1095858.0,
+                "Education": 13010482.0,
+                "Governmental Administration": 1725580.0,
+                "Health": 1151865.0,
+                "Highways": 2005325.0,
+                "Hospitals": 489640.0,
+                "Interest on General Debt": 2899752.0,
+                "Natural Resources": 343750.0,
+                "Other and Unallocable": 6965428.0,
+                "Parks and Recreation": 282624.0,
+                "Police Protection": 829770.0,
+                "Public Welfare": 15560077.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 864090.0,
+                "State-Administered Pension Systems": 4599882.0,
+                "Unemployment Compensation Systems": 2610602.0,
+                "Workers' Compensation Systems": 48558.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 735158.0,
+                "Current Charges": 4606589.0,
+                "Income Taxes": 14764641.0,
+                "Intergovernmental Revenue": 13706498.0,
+                "License Taxes": 945922.0,
+                "Miscellaneous General Revenue": 3966184.0,
+                "Sales and Gross Receipts Taxes": 7455326.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 86483.0,
+                "State-Administered Pension Systems": 6472911.0,
+                "Unemployment Compensation Systems": 1903369.0,
+                "Workers' Compensation Systems": 10931.0
+            }
+        }
+    },
+    "Michigan": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 1857508.0,
+                "Education": 22972166.0,
+                "Governmental Administration": 945893.0,
+                "Health": 1329434.0,
+                "Highways": 2419026.0,
+                "Hospitals": 3080402.0,
+                "Interest on General Debt": 1440019.0,
+                "Natural Resources": 318918.0,
+                "Other and Unallocable": 3685941.0,
+                "Parks and Recreation": 113369.0,
+                "Police Protection": 401026.0,
+                "Public Welfare": 14985940.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 6168265.0,
+                "Unemployment Compensation Systems": 2332122.0,
+                "Workers' Compensation Systems": 12904.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 2151876.0,
+                "Current Charges": 7391002.0,
+                "Income Taxes": 9021535.0,
+                "Intergovernmental Revenue": 18007780.0,
+                "License Taxes": 1464607.0,
+                "Miscellaneous General Revenue": 4008425.0,
+                "Sales and Gross Receipts Taxes": 12298069.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 9173710.0,
+                "Unemployment Compensation Systems": 1888964.0,
+                "Workers' Compensation Systems": 82909.0
+            }
+        }
+    },
+    "Minnesota": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 514959.0,
+                "Education": 15026229.0,
+                "Governmental Administration": 923991.0,
+                "Health": 431809.0,
+                "Highways": 2464343.0,
+                "Hospitals": 265135.0,
+                "Interest on General Debt": 481576.0,
+                "Natural Resources": 607961.0,
+                "Other and Unallocable": 2387227.0,
+                "Parks and Recreation": 249254.0,
+                "Police Protection": 382588.0,
+                "Public Welfare": 11323904.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3711538.0,
+                "Unemployment Compensation Systems": 1107095.0,
+                "Workers' Compensation Systems": 57290.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 1243681.0,
+                "Current Charges": 2268867.0,
+                "Income Taxes": 10313883.0,
+                "Intergovernmental Revenue": 9315259.0,
+                "License Taxes": 1184465.0,
+                "Miscellaneous General Revenue": 2035543.0,
+                "Sales and Gross Receipts Taxes": 8289780.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 9510126.0,
+                "Unemployment Compensation Systems": 1426951.0,
+                "Workers' Compensation Systems": 5209.0
+            }
+        }
+    },
+    "Mississippi": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 376455.0,
+                "Education": 5456159.0,
+                "Governmental Administration": 448806.0,
+                "Health": 403671.0,
+                "Highways": 1376640.0,
+                "Hospitals": 1131700.0,
+                "Interest on General Debt": 275259.0,
+                "Natural Resources": 291359.0,
+                "Other and Unallocable": 1608139.0,
+                "Parks and Recreation": 89791.0,
+                "Police Protection": 112169.0,
+                "Public Welfare": 5816559.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 2137657.0,
+                "Unemployment Compensation Systems": 350592.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 130017.0,
+                "Current Charges": 1830894.0,
+                "Income Taxes": 2171404.0,
+                "Intergovernmental Revenue": 7649292.0,
+                "License Taxes": 530010.0,
+                "Miscellaneous General Revenue": 627621.0,
+                "Sales and Gross Receipts Taxes": 4571294.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3763938.0,
+                "Unemployment Compensation Systems": 266185.0,
+                "Workers' Compensation Systems": 42381.0
+            }
+        }
+    },
+    "Missouri": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 736445.0,
+                "Education": 8952460.0,
+                "Governmental Administration": 523093.0,
+                "Health": 1585857.0,
+                "Highways": 1595271.0,
+                "Hospitals": 1683129.0,
+                "Interest on General Debt": 790713.0,
+                "Natural Resources": 339286.0,
+                "Other and Unallocable": 1588681.0,
+                "Parks and Recreation": 41386.0,
+                "Police Protection": 214524.0,
+                "Public Welfare": 7988161.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3520125.0,
+                "Unemployment Compensation Systems": 849753.0,
+                "Workers' Compensation Systems": 42494.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 40969.0,
+                "Current Charges": 2715431.0,
+                "Income Taxes": 5757909.0,
+                "Intergovernmental Revenue": 10497449.0,
+                "License Taxes": 549473.0,
+                "Miscellaneous General Revenue": 2309762.0,
+                "Sales and Gross Receipts Taxes": 4791043.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 9688436.0,
+                "Unemployment Compensation Systems": 969521.0,
+                "Workers' Compensation Systems": 209143.0
+            }
+        }
+    },
+    "Montana": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 191150.0,
+                "Education": 1856783.0,
+                "Governmental Administration": 380054.0,
+                "Health": 175007.0,
+                "Highways": 683224.0,
+                "Hospitals": 49673.0,
+                "Interest on General Debt": 140943.0,
+                "Natural Resources": 322807.0,
+                "Other and Unallocable": 771190.0,
+                "Parks and Recreation": 17486.0,
+                "Police Protection": 51138.0,
+                "Public Welfare": 1421146.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 12950.0,
+                "State-Administered Pension Systems": 627698.0,
+                "Unemployment Compensation Systems": 176704.0,
+                "Workers' Compensation Systems": 114644.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 548292.0,
+                "Current Charges": 540793.0,
+                "Income Taxes": 1216499.0,
+                "Intergovernmental Revenue": 2161997.0,
+                "License Taxes": 320858.0,
+                "Miscellaneous General Revenue": 420154.0,
+                "Sales and Gross Receipts Taxes": 558961.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 7754.0,
+                "State-Administered Pension Systems": 1960066.0,
+                "Unemployment Compensation Systems": 164469.0,
+                "Workers' Compensation Systems": 63.0
+            }
+        }
+    },
+    "Nebraska": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 246519.0,
+                "Education": 3367219.0,
+                "Governmental Administration": 196763.0,
+                "Health": 476668.0,
+                "Highways": 754226.0,
+                "Hospitals": 261809.0,
+                "Interest on General Debt": 70011.0,
+                "Natural Resources": 251065.0,
+                "Other and Unallocable": 911173.0,
+                "Parks and Recreation": 45105.0,
+                "Police Protection": 86623.0,
+                "Public Welfare": 2517272.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 509367.0,
+                "Unemployment Compensation Systems": 185939.0,
+                "Workers' Compensation Systems": 1078.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 12937.0,
+                "Current Charges": 1028061.0,
+                "Income Taxes": 2377257.0,
+                "Intergovernmental Revenue": 3212304.0,
+                "License Taxes": 130762.0,
+                "Miscellaneous General Revenue": 860018.0,
+                "Sales and Gross Receipts Taxes": 2197988.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1503423.0,
+                "Unemployment Compensation Systems": 161742.0,
+                "Workers' Compensation Systems": ""
+            }
+        }
+    },
+    "Nevada": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 283918.0,
+                "Education": 4365150.0,
+                "Governmental Administration": 296341.0,
+                "Health": 275542.0,
+                "Highways": 721780.0,
+                "Hospitals": 265446.0,
+                "Interest on General Debt": 189309.0,
+                "Natural Resources": 116153.0,
+                "Other and Unallocable": 1604552.0,
+                "Parks and Recreation": 19216.0,
+                "Police Protection": 101604.0,
+                "Public Welfare": 2400389.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1707446.0,
+                "Unemployment Compensation Systems": 843281.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 971462.0,
+                "Current Charges": 673634.0,
+                "Income Taxes": 0.0,
+                "Intergovernmental Revenue": 3080240.0,
+                "License Taxes": 586801.0,
+                "Miscellaneous General Revenue": 621896.0,
+                "Sales and Gross Receipts Taxes": 5468363.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 4439903.0,
+                "Unemployment Compensation Systems": 1119105.0,
+                "Workers' Compensation Systems": ""
+            }
+        }
+    },
+    "New Hampshire": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 112422.0,
+                "Education": 2068121.0,
+                "Governmental Administration": 254442.0,
+                "Health": 140321.0,
+                "Highways": 557978.0,
+                "Hospitals": 49410.0,
+                "Interest on General Debt": 357212.0,
+                "Natural Resources": 76860.0,
+                "Other and Unallocable": 829036.0,
+                "Parks and Recreation": 22998.0,
+                "Police Protection": 56132.0,
+                "Public Welfare": 1682499.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 601784.0,
+                "Unemployment Compensation Systems": 142346.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 499737.0,
+                "Current Charges": 933371.0,
+                "Income Taxes": 652224.0,
+                "Intergovernmental Revenue": 1883424.0,
+                "License Taxes": 252442.0,
+                "Miscellaneous General Revenue": 965951.0,
+                "Sales and Gross Receipts Taxes": 945290.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1028126.0,
+                "Unemployment Compensation Systems": 207047.0,
+                "Workers' Compensation Systems": 207372.0
+            }
+        }
+    },
+    "New Jersey": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 1436484.0,
+                "Education": 16426314.0,
+                "Governmental Administration": 1691288.0,
+                "Health": 1260358.0,
+                "Highways": 3192396.0,
+                "Hospitals": 2106102.0,
+                "Interest on General Debt": 2161780.0,
+                "Natural Resources": 581243.0,
+                "Other and Unallocable": 5485878.0,
+                "Parks and Recreation": 190647.0,
+                "Police Protection": 818347.0,
+                "Public Welfare": 14701447.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 523596.0,
+                "State-Administered Pension Systems": 9009508.0,
+                "Unemployment Compensation Systems": 4804523.0,
+                "Workers' Compensation Systems": 195227.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 971646.0,
+                "Current Charges": 5900251.0,
+                "Income Taxes": 14390670.0,
+                "Intergovernmental Revenue": 14471986.0,
+                "License Taxes": 1516432.0,
+                "Miscellaneous General Revenue": 4414716.0,
+                "Sales and Gross Receipts Taxes": 12198133.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 503382.0,
+                "State-Administered Pension Systems": 9210357.0,
+                "Unemployment Compensation Systems": 3321148.0,
+                "Workers' Compensation Systems": 30413.0
+            }
+        }
+    },
+    "New Mexico": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 400947.0,
+                "Education": 5406138.0,
+                "Governmental Administration": 597546.0,
+                "Health": 491298.0,
+                "Highways": 756210.0,
+                "Hospitals": 953684.0,
+                "Interest on General Debt": 288029.0,
+                "Natural Resources": 182694.0,
+                "Other and Unallocable": 1806841.0,
+                "Parks and Recreation": 50999.0,
+                "Police Protection": 134511.0,
+                "Public Welfare": 3946347.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 26378.0,
+                "State-Administered Pension Systems": 1775173.0,
+                "Unemployment Compensation Systems": 366662.0,
+                "Workers' Compensation Systems": 17017.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 785581.0,
+                "Current Charges": 1370093.0,
+                "Income Taxes": 1508402.0,
+                "Intergovernmental Revenue": 5416068.0,
+                "License Taxes": 255968.0,
+                "Miscellaneous General Revenue": 2307624.0,
+                "Sales and Gross Receipts Taxes": 2651625.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 3029.0,
+                "State-Administered Pension Systems": 349415.0,
+                "Unemployment Compensation Systems": 215896.0,
+                "Workers' Compensation Systems": 2944599.0
+            }
+        }
+    },
+    "New York": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 3438227.0,
+                "Education": 41151716.0,
+                "Governmental Administration": 5524280.0,
+                "Health": 9215195.0,
+                "Highways": 4238973.0,
+                "Hospitals": 4750662.0,
+                "Interest on General Debt": 4291315.0,
+                "Natural Resources": 423976.0,
+                "Other and Unallocable": 14566468.0,
+                "Parks and Recreation": 550477.0,
+                "Police Protection": 995306.0,
+                "Public Welfare": 58009518.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 15661254.0,
+                "Unemployment Compensation Systems": 6076382.0,
+                "Workers' Compensation Systems": 2351254.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 3346329.0,
+                "Current Charges": 8510037.0,
+                "Income Taxes": 45150984.0,
+                "Intergovernmental Revenue": 71682137.0,
+                "License Taxes": 1952367.0,
+                "Miscellaneous General Revenue": 11341216.0,
+                "Sales and Gross Receipts Taxes": 23217491.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 33862529.0,
+                "Unemployment Compensation Systems": 5895504.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        }
+    },
+    "North Carolina": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 1210318.0,
+                "Education": 19250605.0,
+                "Governmental Administration": 1296416.0,
+                "Health": 1368833.0,
+                "Highways": 3688451.0,
+                "Hospitals": 2020269.0,
+                "Interest on General Debt": 619671.0,
+                "Natural Resources": 511455.0,
+                "Other and Unallocable": 2284685.0,
+                "Parks and Recreation": 171930.0,
+                "Police Protection": 703083.0,
+                "Public Welfare": 12977012.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 4914733.0,
+                "Unemployment Compensation Systems": 2536204.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 157087.0,
+                "Current Charges": 5149449.0,
+                "Income Taxes": 12354073.0,
+                "Intergovernmental Revenue": 15769950.0,
+                "License Taxes": 1543201.0,
+                "Miscellaneous General Revenue": 2886553.0,
+                "Sales and Gross Receipts Taxes": 9714217.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 8780191.0,
+                "Unemployment Compensation Systems": 3416454.0,
+                "Workers' Compensation Systems": 233316.0
+            }
+        }
+    },
+    "North Dakota": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 96683.0,
+                "Education": 1931216.0,
+                "Governmental Administration": 157626.0,
+                "Health": 161118.0,
+                "Highways": 1051899.0,
+                "Hospitals": 53709.0,
+                "Interest on General Debt": 97306.0,
+                "Natural Resources": 329500.0,
+                "Other and Unallocable": 888892.0,
+                "Parks and Recreation": 39872.0,
+                "Police Protection": 35210.0,
+                "Public Welfare": 943371.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 249723.0,
+                "Unemployment Compensation Systems": 101747.0,
+                "Workers' Compensation Systems": 272289.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 2460366.0,
+                "Current Charges": 764567.0,
+                "Income Taxes": 867485.0,
+                "Intergovernmental Revenue": 1572480.0,
+                "License Taxes": 207482.0,
+                "Miscellaneous General Revenue": 424112.0,
+                "Sales and Gross Receipts Taxes": 1763437.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": -1560129.0,
+                "Unemployment Compensation Systems": 107716.0,
+                "Workers' Compensation Systems": 2222949.0
+            }
+        }
+    },
+    "Ohio": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 1543631.0,
+                "Education": 21606929.0,
+                "Governmental Administration": 1796127.0,
+                "Health": 2493472.0,
+                "Highways": 3678390.0,
+                "Hospitals": 3125123.0,
+                "Interest on General Debt": 1231811.0,
+                "Natural Resources": 390327.0,
+                "Other and Unallocable": 4046842.0,
+                "Parks and Recreation": 83384.0,
+                "Police Protection": 318780.0,
+                "Public Welfare": 19186691.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 13244997.0,
+                "Unemployment Compensation Systems": 2052382.0,
+                "Workers' Compensation Systems": 1136718.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 117511.0,
+                "Current Charges": 7950754.0,
+                "Income Taxes": 10131771.0,
+                "Intergovernmental Revenue": 21113847.0,
+                "License Taxes": 3445620.0,
+                "Miscellaneous General Revenue": 4363970.0,
+                "Sales and Gross Receipts Taxes": 13822045.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 25317773.0,
+                "Unemployment Compensation Systems": 2825839.0,
+                "Workers' Compensation Systems": 325873.0
+            }
+        }
+    },
+    "Oklahoma": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 569140.0,
+                "Education": 7321724.0,
+                "Governmental Administration": 747200.0,
+                "Health": 861552.0,
+                "Highways": 1802547.0,
+                "Hospitals": 258175.0,
+                "Interest on General Debt": 460984.0,
+                "Natural Resources": 231332.0,
+                "Other and Unallocable": 753082.0,
+                "Parks and Recreation": 81657.0,
+                "Police Protection": 233623.0,
+                "Public Welfare": 6258083.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1935768.0,
+                "Unemployment Compensation Systems": 368982.0,
+                "Workers' Compensation Systems": 222646.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 531861.0,
+                "Current Charges": 2491130.0,
+                "Income Taxes": 3501761.0,
+                "Intergovernmental Revenue": 7159511.0,
+                "License Taxes": 1010430.0,
+                "Miscellaneous General Revenue": 2256558.0,
+                "Sales and Gross Receipts Taxes": 3848451.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3803760.0,
+                "Unemployment Compensation Systems": 588196.0,
+                "Workers' Compensation Systems": 551052.0
+            }
+        }
+    },
+    "Oregon": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 730873.0,
+                "Education": 7172341.0,
+                "Governmental Administration": 1109197.0,
+                "Health": 792133.0,
+                "Highways": 1312821.0,
+                "Hospitals": 1548755.0,
+                "Interest on General Debt": 424175.0,
+                "Natural Resources": 449716.0,
+                "Other and Unallocable": 1085361.0,
+                "Parks and Recreation": 81087.0,
+                "Police Protection": 183495.0,
+                "Public Welfare": 6575475.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3573500.0,
+                "Unemployment Compensation Systems": 1193646.0,
+                "Workers' Compensation Systems": 346814.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 148593.0,
+                "Current Charges": 3720003.0,
+                "Income Taxes": 6719905.0,
+                "Intergovernmental Revenue": 8003252.0,
+                "License Taxes": 923123.0,
+                "Miscellaneous General Revenue": 1948874.0,
+                "Sales and Gross Receipts Taxes": 1369266.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 8235329.0,
+                "Unemployment Compensation Systems": 1079833.0,
+                "Workers' Compensation Systems": 268769.0
+            }
+        }
+    },
+    "Pennsylvania": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 2119602.0,
+                "Education": 22628667.0,
+                "Governmental Administration": 2958712.0,
+                "Health": 3080531.0,
+                "Highways": 7601344.0,
+                "Hospitals": 3789791.0,
+                "Interest on General Debt": 1446132.0,
+                "Natural Resources": 642051.0,
+                "Other and Unallocable": 3659323.0,
+                "Parks and Recreation": 327664.0,
+                "Police Protection": 911672.0,
+                "Public Welfare": 23078652.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 8720658.0,
+                "Unemployment Compensation Systems": 4628186.0,
+                "Workers' Compensation Systems": 353359.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 1288627.0,
+                "Current Charges": 9691460.0,
+                "Income Taxes": 12985497.0,
+                "Intergovernmental Revenue": 21412638.0,
+                "License Taxes": 2585202.0,
+                "Miscellaneous General Revenue": 4686007.0,
+                "Sales and Gross Receipts Taxes": 17106300.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 10159149.0,
+                "Unemployment Compensation Systems": 6248158.0,
+                "Workers' Compensation Systems": 16375.0
+            }
+        }
+    },
+    "Rhode Island": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 182888.0,
+                "Education": 1986630.0,
+                "Governmental Administration": 351759.0,
+                "Health": 158767.0,
+                "Highways": 318630.0,
+                "Hospitals": 66449.0,
+                "Interest on General Debt": 474116.0,
+                "Natural Resources": 59205.0,
+                "Other and Unallocable": 469024.0,
+                "Parks and Recreation": 29055.0,
+                "Police Protection": 71704.0,
+                "Public Welfare": 2394541.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 163649.0,
+                "State-Administered Pension Systems": 914772.0,
+                "Unemployment Compensation Systems": 391284.0,
+                "Workers' Compensation Systems": 1919.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 52190.0,
+                "Current Charges": 744765.0,
+                "Income Taxes": 1233302.0,
+                "Intergovernmental Revenue": 2369822.0,
+                "License Taxes": 138518.0,
+                "Miscellaneous General Revenue": 878476.0,
+                "Sales and Gross Receipts Taxes": 1516423.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 165726.0,
+                "State-Administered Pension Systems": 1007529.0,
+                "Unemployment Compensation Systems": 426618.0,
+                "Workers' Compensation Systems": 114932.0
+            }
+        }
+    },
+    "South Carolina": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 490627.0,
+                "Education": 8352080.0,
+                "Governmental Administration": 551247.0,
+                "Health": 1011767.0,
+                "Highways": 923605.0,
+                "Hospitals": 1444046.0,
+                "Interest on General Debt": 432314.0,
+                "Natural Resources": 196531.0,
+                "Other and Unallocable": 2608383.0,
+                "Parks and Recreation": 86910.0,
+                "Police Protection": 183055.0,
+                "Public Welfare": 6050877.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3025971.0,
+                "Unemployment Compensation Systems": 547255.0,
+                "Workers' Compensation Systems": 114290.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 60293.0,
+                "Current Charges": 4193046.0,
+                "Income Taxes": 3744187.0,
+                "Intergovernmental Revenue": 7202824.0,
+                "License Taxes": 439843.0,
+                "Miscellaneous General Revenue": 2043684.0,
+                "Sales and Gross Receipts Taxes": 4476982.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 4610711.0,
+                "Unemployment Compensation Systems": 992005.0,
+                "Workers' Compensation Systems": 103.0
+            }
+        }
+    },
+    "South Dakota": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 116535.0,
+                "Education": 1266106.0,
+                "Governmental Administration": 166448.0,
+                "Health": 178414.0,
+                "Highways": 653007.0,
+                "Hospitals": 21930.0,
+                "Interest on General Debt": 114194.0,
+                "Natural Resources": 178255.0,
+                "Other and Unallocable": 260094.0,
+                "Parks and Recreation": 46133.0,
+                "Police Protection": 38321.0,
+                "Public Welfare": 971649.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 426612.0,
+                "Unemployment Compensation Systems": 37417.0,
+                "Workers' Compensation Systems": 1610.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 11009.0,
+                "Current Charges": 344499.0,
+                "Income Taxes": 37172.0,
+                "Intergovernmental Revenue": 1605537.0,
+                "License Taxes": 257220.0,
+                "Miscellaneous General Revenue": 551981.0,
+                "Sales and Gross Receipts Taxes": 1228262.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1676771.0,
+                "Unemployment Compensation Systems": 46817.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        }
+    },
+    "Tennessee": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 889870.0,
+                "Education": 9810510.0,
+                "Governmental Administration": 868161.0,
+                "Health": 672883.0,
+                "Highways": 1752119.0,
+                "Hospitals": 404978.0,
+                "Interest on General Debt": 264464.0,
+                "Natural Resources": 291223.0,
+                "Other and Unallocable": 1598854.0,
+                "Parks and Recreation": 85428.0,
+                "Police Protection": 232868.0,
+                "Public Welfare": 10959849.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1958222.0,
+                "Unemployment Compensation Systems": 796891.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 298527.0,
+                "Current Charges": 2016428.0,
+                "Income Taxes": 1519015.0,
+                "Intergovernmental Revenue": 10900626.0,
+                "License Taxes": 1421174.0,
+                "Miscellaneous General Revenue": 2117865.0,
+                "Sales and Gross Receipts Taxes": 9128175.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3111732.0,
+                "Unemployment Compensation Systems": 683593.0,
+                "Workers' Compensation Systems": 1159213.0
+            }
+        }
+    },
+    "Texas": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 3701789.0,
+                "Education": 47479191.0,
+                "Governmental Administration": 1818589.0,
+                "Health": 2774086.0,
+                "Highways": 7536463.0,
+                "Hospitals": 5237650.0,
+                "Interest on General Debt": 1729403.0,
+                "Natural Resources": 1040736.0,
+                "Other and Unallocable": 4959607.0,
+                "Parks and Recreation": 166995.0,
+                "Police Protection": 799712.0,
+                "Public Welfare": 30780705.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 12670049.0,
+                "Unemployment Compensation Systems": 3910907.0,
+                "Workers' Compensation Systems": 323656.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 4647848.0,
+                "Current Charges": 12641609.0,
+                "Income Taxes": 0.0,
+                "Intergovernmental Revenue": 37580061.0,
+                "License Taxes": 7788864.0,
+                "Miscellaneous General Revenue": 10999945.0,
+                "Sales and Gross Receipts Taxes": 39277583.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 20617046.0,
+                "Unemployment Compensation Systems": 2688042.0,
+                "Workers' Compensation Systems": 245970.0
+            }
+        }
+    },
+    "Utah": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 310560.0,
+                "Education": 6874554.0,
+                "Governmental Administration": 650991.0,
+                "Health": 390835.0,
+                "Highways": 961772.0,
+                "Hospitals": 1180848.0,
+                "Interest on General Debt": 270687.0,
+                "Natural Resources": 172571.0,
+                "Other and Unallocable": 944021.0,
+                "Parks and Recreation": 37823.0,
+                "Police Protection": 143594.0,
+                "Public Welfare": 3017968.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1158491.0,
+                "Unemployment Compensation Systems": 312383.0,
+                "Workers' Compensation Systems": 188979.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 112050.0,
+                "Current Charges": 3181111.0,
+                "Income Taxes": 3182772.0,
+                "Intergovernmental Revenue": 4304061.0,
+                "License Taxes": 290388.0,
+                "Miscellaneous General Revenue": 1000357.0,
+                "Sales and Gross Receipts Taxes": 2739916.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 2968222.0,
+                "Unemployment Compensation Systems": 372573.0,
+                "Workers' Compensation Systems": ""
+            }
+        }
+    },
+    "Vermont": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 135127.0,
+                "Education": 2407364.0,
+                "Governmental Administration": 167830.0,
+                "Health": 235775.0,
+                "Highways": 455461.0,
+                "Hospitals": 287.0,
+                "Interest on General Debt": 94202.0,
+                "Natural Resources": 81883.0,
+                "Other and Unallocable": 295519.0,
+                "Parks and Recreation": 13837.0,
+                "Police Protection": 91112.0,
+                "Public Welfare": 1629482.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 247467.0,
+                "Unemployment Compensation Systems": 110789.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 1020533.0,
+                "Current Charges": 527620.0,
+                "Income Taxes": 768662.0,
+                "Intergovernmental Revenue": 1872013.0,
+                "License Taxes": 106509.0,
+                "Miscellaneous General Revenue": 356646.0,
+                "Sales and Gross Receipts Taxes": 983226.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 407630.0,
+                "Unemployment Compensation Systems": 197230.0,
+                "Workers' Compensation Systems": 4736.0
+            }
+        }
+    },
+    "Virginia": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 1706864.0,
+                "Education": 15214402.0,
+                "Governmental Administration": 1314461.0,
+                "Health": 1343432.0,
+                "Highways": 3912825.0,
+                "Hospitals": 3598411.0,
+                "Interest on General Debt": 1159003.0,
+                "Natural Resources": 248919.0,
+                "Other and Unallocable": 3498714.0,
+                "Parks and Recreation": 118354.0,
+                "Police Protection": 559409.0,
+                "Public Welfare": 9855058.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3754079.0,
+                "Unemployment Compensation Systems": 812126.0,
+                "Workers' Compensation Systems": 4044.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 514754.0,
+                "Current Charges": 8138597.0,
+                "Income Taxes": 11672861.0,
+                "Intergovernmental Revenue": 9959041.0,
+                "License Taxes": 806572.0,
+                "Miscellaneous General Revenue": 3855918.0,
+                "Sales and Gross Receipts Taxes": 6192666.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 5772239.0,
+                "Unemployment Compensation Systems": 800819.0,
+                "Workers' Compensation Systems": 2501649.0
+            }
+        }
+    },
+    "Washington": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 954986.0,
+                "Education": 15582462.0,
+                "Governmental Administration": 747190.0,
+                "Health": 2185121.0,
+                "Highways": 3183817.0,
+                "Hospitals": 2160922.0,
+                "Interest on General Debt": 1289645.0,
+                "Natural Resources": 861649.0,
+                "Other and Unallocable": 2029100.0,
+                "Parks and Recreation": 124187.0,
+                "Police Protection": 356847.0,
+                "Public Welfare": 8389040.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 3303199.0,
+                "Unemployment Compensation Systems": 2055288.0,
+                "Workers' Compensation Systems": 1986098.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 2660186.0,
+                "Current Charges": 4719060.0,
+                "Income Taxes": 0.0,
+                "Intergovernmental Revenue": 10030961.0,
+                "License Taxes": 1359685.0,
+                "Miscellaneous General Revenue": 2252761.0,
+                "Sales and Gross Receipts Taxes": 14647173.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 10069652.0,
+                "Unemployment Compensation Systems": 1390751.0,
+                "Workers' Compensation Systems": 120251.0
+            }
+        }
+    },
+    "West Virginia": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 300693.0,
+                "Education": 4333893.0,
+                "Governmental Administration": 438545.0,
+                "Health": 345537.0,
+                "Highways": 1102651.0,
+                "Hospitals": 126185.0,
+                "Interest on General Debt": 253663.0,
+                "Natural Resources": 225833.0,
+                "Other and Unallocable": 928684.0,
+                "Parks and Recreation": 51269.0,
+                "Police Protection": 75101.0,
+                "Public Welfare": 3526796.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 990402.0,
+                "Unemployment Compensation Systems": 365722.0,
+                "Workers' Compensation Systems": 90217.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 623298.0,
+                "Current Charges": 1504885.0,
+                "Income Taxes": 2038376.0,
+                "Intergovernmental Revenue": 4325052.0,
+                "License Taxes": 137437.0,
+                "Miscellaneous General Revenue": 1182707.0,
+                "Sales and Gross Receipts Taxes": 2579011.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1870773.0,
+                "Unemployment Compensation Systems": 223221.0,
+                "Workers' Compensation Systems": 3855.0
+            }
+        }
+    },
+    "Wisconsin": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 1090920.0,
+                "Education": 10877543.0,
+                "Governmental Administration": 717793.0,
+                "Health": 771081.0,
+                "Highways": 2409285.0,
+                "Hospitals": 1422217.0,
+                "Interest on General Debt": 929923.0,
+                "Natural Resources": 664438.0,
+                "Other and Unallocable": 3995163.0,
+                "Parks and Recreation": 28419.0,
+                "Police Protection": 122600.0,
+                "Public Welfare": 8849077.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 4234714.0,
+                "Unemployment Compensation Systems": 1400501.0,
+                "Workers' Compensation Systems": 2697.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 215016.0,
+                "Current Charges": 4011774.0,
+                "Income Taxes": 8183442.0,
+                "Intergovernmental Revenue": 9228907.0,
+                "License Taxes": 1026823.0,
+                "Miscellaneous General Revenue": 2526464.0,
+                "Sales and Gross Receipts Taxes": 7088411.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 11573995.0,
+                "Unemployment Compensation Systems": 1739832.0,
+                "Workers' Compensation Systems": 297142.0
+            }
+        }
+    },
+    "Wyoming": {
+        "Total Expenditure": {
+            "General Expenditure": {
+                "Correction": 143237.0,
+                "Education": 1723856.0,
+                "Governmental Administration": 245318.0,
+                "Health": 274660.0,
+                "Highways": 547875.0,
+                "Hospitals": 4403.0,
+                "Interest on General Debt": 51243.0,
+                "Natural Resources": 394207.0,
+                "Other and Unallocable": 788831.0,
+                "Parks and Recreation": 28898.0,
+                "Police Protection": 50957.0,
+                "Public Welfare": 783143.0
+            },
+            "Insurance Trust Expenditure": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 437442.0,
+                "Unemployment Compensation Systems": 107398.0,
+                "Workers' Compensation Systems": 165666.0
+            }
+        },
+        "Total Revenue": {
+            "General Revenue": {
+                "All Other Taxes": 1204426.0,
+                "Current Charges": 195099.0,
+                "Income Taxes": 0.0,
+                "Intergovernmental Revenue": 2318877.0,
+                "License Taxes": 155241.0,
+                "Miscellaneous General Revenue": 1229022.0,
+                "Sales and Gross Receipts Taxes": 826387.0
+            },
+            "Insurance Trust Revenue": {
+                "Other Insurance Trust Systems": 0.0,
+                "State-Administered Pension Systems": 1397309.0,
+                "Unemployment Compensation Systems": 145347.0,
+                "Workers' Compensation Systems": 0.0
+            }
+        }
+    }
+}
